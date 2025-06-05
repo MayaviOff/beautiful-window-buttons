@@ -1,7 +1,9 @@
 {
   "uuid": "beautiful-window-buttons@mayavi",
   "name": "Beautiful Window Buttons",
-  "description": "Adds macOS-like window buttons to GNOME 48, which u can change and modify",
-  "shell-version": ["48", "45", "44"],
-  "version": 1
+  "description": "Customizable macOS-style window buttons for GNOME",
+  "version": 1,
+  "shell-version": ["45", "46", "48"],
+  "settings-schema": "org.gnome.shell.extensions.beautiful-window-buttons"
 }
+
