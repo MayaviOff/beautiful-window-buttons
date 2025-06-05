@@ -1,5 +1,6 @@
 {
   "uuid": "beautiful-window-buttons@mayavi",
+  "gettext-domain": "beautiful-window-buttons@mayavi",
   "name": "Beautiful Window Buttons",
   "description": "Customizable macOS-style window buttons for GNOME",
   "version": 1,
