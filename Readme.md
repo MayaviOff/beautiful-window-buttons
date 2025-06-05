@@ -20,6 +20,22 @@ In future, I'll add these features:
 - Saving your layout to a JSON file to use on another PC  
 - Maybe something else!
 
+## How to install
+
+You can install it via gnome-shell-extensions, Extension manager or in manual way.
+
+### Manual Way
+
+You can install extension by following this simple steps:
+
+1. Clone the repo from github  
+`git clone https://github.com/MayaviOff/beautiful-window-buttons ~/.local/share/gnome-shell/extensions/`
+2. Restart gnome shell (best way - reboot)
+3. Activate extension:  
+`gnome-extensions enable beautiful-window-buttons@mayavi`
+
+If it doesn't work i recommend u to install this stuff using Gnome Extensions Manager
+
 ## Little Conclusion
 
 I hope that nobody will have the same problems I did,  
